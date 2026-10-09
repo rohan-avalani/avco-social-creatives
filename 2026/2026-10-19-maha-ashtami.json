@@ -1,0 +1,19 @@
+{
+  "layout": "A",
+  "hero": "hero.jpg",
+  "hero_position": "center 100%",
+  "logo_variant": "purple",
+  "logo_position": "right",
+  "logo_plate": false,
+  "kicker": "Shubho",
+  "title": "Maha Ashtami",
+  "lines": [
+    "May Maa Durga's blessings",
+    "power every new beginning"
+  ],
+  "accent": "#B0352B",
+  "title_color": "#7A1E1A",
+  "scrim": "cream",
+  "title_size": 116,
+  "scrim_height": 50
+}
