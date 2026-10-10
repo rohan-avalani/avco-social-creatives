@@ -1,0 +1,17 @@
+{
+ "layout": "A",
+ "hero": "/tmp/claude-0/work/diwali/hero.jpg",
+ "hero_position": "center 15%",
+ "logo_variant": "white",
+ "logo_position": "right",
+ "kicker": "Happy",
+ "title": "Diwali",
+ "lines": [
+  "May Lakshmi's light",
+  "brighten every home"
+ ],
+ "accent": "#FCC51F",
+ "title_color": "#FCC51F",
+ "scrim": "dusk",
+ "scrim_height": 44
+}
