@@ -1,0 +1,18 @@
+{
+ "layout": "A",
+ "hero": "/tmp/claude-0/work/bijoya/hero.jpg",
+ "hero_position": "center 20%",
+ "logo_variant": "white",
+ "logo_position": "right",
+ "kicker": "Shubho Bijoya",
+ "title": "Vijaya Dashami",
+ "title_size": 104,
+ "lines": [
+  "May Maa Durga's blessings",
+  "stay with you all year"
+ ],
+ "accent": "#B0352B",
+ "title_color": "#7A1E1A",
+ "scrim": "cream",
+ "scrim_height": 46
+}
