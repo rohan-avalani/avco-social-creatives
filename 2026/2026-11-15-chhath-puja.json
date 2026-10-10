@@ -1,17 +1,24 @@
 {
- "layout": "A",
- "hero": "/tmp/claude-0/work/chhath/hero.jpg",
- "hero_position": "center 30%",
- "logo_variant": "white",
- "logo_position": "right",
- "kicker": "Happy",
- "title": "Chhath Puja",
- "lines": [
-  "Sandhya Arghya",
-  "Blessings to every family"
- ],
- "accent": "#FFB347",
- "title_color": "#FFD66B",
- "scrim": "dusk",
- "scrim_height": 48
+  "layout": "F",
+  "hero": "2026-11-15-chhath-puja-hero.jpg",
+  "hero_position": "center 100%",
+  "zone": "top",
+  "zone_offset": 190,
+  "tone": "light",
+  "glow": 0.35,
+  "logo_variant": "purple",
+  "logo_position": "left",
+  "script": "छठ पूजा",
+  "script_lang": "hi",
+  "script_size": 120,
+  "script_color": "#8C2F0E",
+  "title": "Chhath Puja",
+  "title_color": "#3F2A78",
+  "lines": [
+    "Honouring the Sun",
+    "that powers every life"
+  ],
+  "accent": "#8C2F0E",
+  "line_color": "#3F2A78",
+  "title_size": 76
 }
