@@ -1,18 +1,24 @@
 {
- "layout": "A",
- "hero": "/tmp/claude-0/work/kati/hero.jpg",
- "hero_position": "center 35%",
- "logo_variant": "white",
- "logo_position": "right",
- "logo_plate": false,
- "kicker": "Happy",
- "title": "Kati Bihu",
- "lines": [
-  "May every lamp light",
-  "new hope across Assam"
- ],
- "accent": "#FFB347",
- "title_color": "#FFD66B",
- "scrim": "dusk",
- "scrim_height": 50
+  "layout": "F",
+  "hero": "2026-10-18-kati-bihu-hero.jpg",
+  "hero_position": "center 100%",
+  "zone": "top",
+  "zone_offset": 164,
+  "tone": "light",
+  "glow": 0.5,
+  "logo_variant": "purple",
+  "logo_position": "left",
+  "script": "কাতি বিহুৰ শুভেচ্ছা",
+  "script_lang": "as",
+  "script_size": 84,
+  "script_color": "#A3201B",
+  "title": "Kati Bihu",
+  "title_color": "#3F2A78",
+  "lines": [
+    "May every lamp bring a golden harvest"
+  ],
+  "accent": "#A3201B",
+  "line_color": "#3F2A78",
+  "frame": "hairline",
+  "title_size": 64
 }
