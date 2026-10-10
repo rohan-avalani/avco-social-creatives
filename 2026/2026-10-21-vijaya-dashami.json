@@ -1,18 +1,24 @@
 {
- "layout": "A",
- "hero": "/tmp/claude-0/work/bijoya/hero.jpg",
- "hero_position": "center 20%",
- "logo_variant": "white",
- "logo_position": "right",
- "kicker": "Shubho Bijoya",
- "title": "Vijaya Dashami",
- "title_size": 104,
- "lines": [
-  "May Maa Durga's blessings",
-  "stay with you all year"
- ],
- "accent": "#B0352B",
- "title_color": "#7A1E1A",
- "scrim": "cream",
- "scrim_height": 46
+  "layout": "F",
+  "hero": "2026-10-21-vijaya-dashami-hero.jpg",
+  "hero_position": "center 75%",
+  "zone": "top",
+  "zone_offset": 200,
+  "tone": "light",
+  "glow": 0.4,
+  "logo_variant": "purple",
+  "logo_position": "left",
+  "script": "শুভ বিজয়া",
+  "script_lang": "bn",
+  "script_size": 120,
+  "script_color": "#A3201B",
+  "title": "Vijaya Dashami",
+  "title_color": "#3F2A78",
+  "lines": [
+    "Asche bochor abar hobe"
+  ],
+  "accent": "#A3201B",
+  "line_color": "#3F2A78",
+  "frame": "hairline",
+  "title_size": 76
 }
