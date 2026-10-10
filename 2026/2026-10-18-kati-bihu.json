@@ -1,0 +1,18 @@
+{
+ "layout": "A",
+ "hero": "/tmp/claude-0/work/kati/hero.jpg",
+ "hero_position": "center 35%",
+ "logo_variant": "white",
+ "logo_position": "right",
+ "logo_plate": false,
+ "kicker": "Happy",
+ "title": "Kati Bihu",
+ "lines": [
+  "May every lamp light",
+  "new hope across Assam"
+ ],
+ "accent": "#FFB347",
+ "title_color": "#FFD66B",
+ "scrim": "dusk",
+ "scrim_height": 50
+}
