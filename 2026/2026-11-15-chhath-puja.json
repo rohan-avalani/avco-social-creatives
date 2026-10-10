@@ -1,0 +1,17 @@
+{
+ "layout": "A",
+ "hero": "/tmp/claude-0/work/chhath/hero.jpg",
+ "hero_position": "center 30%",
+ "logo_variant": "white",
+ "logo_position": "right",
+ "kicker": "Happy",
+ "title": "Chhath Puja",
+ "lines": [
+  "Sandhya Arghya",
+  "Blessings to every family"
+ ],
+ "accent": "#FFB347",
+ "title_color": "#FFD66B",
+ "scrim": "dusk",
+ "scrim_height": 48
+}
