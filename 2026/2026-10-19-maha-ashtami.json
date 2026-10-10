@@ -1,19 +1,25 @@
 {
-  "layout": "A",
-  "hero": "hero.jpg",
-  "hero_position": "center 100%",
+  "layout": "F",
+  "hero": "2026-10-19-maha-ashtami-hero.jpg",
+  "hero_position": "center 60%",
+  "zone": "bottom",
+  "zone_offset": 34,
+  "tone": "light",
+  "glow": 0.7,
   "logo_variant": "purple",
-  "logo_position": "right",
-  "logo_plate": false,
-  "kicker": "Shubho",
+  "logo_position": "left",
+  "script": "শুভ মহাষ্টমী",
+  "script_lang": "bn",
+  "script_size": 88,
+  "script_color": "#A3201B",
   "title": "Maha Ashtami",
+  "title_color": "#3F2A78",
   "lines": [
-    "May Maa Durga's blessings",
-    "power every new beginning"
+    "May Maa Durga bless you"
   ],
-  "accent": "#B0352B",
-  "title_color": "#7A1E1A",
-  "scrim": "cream",
-  "title_size": 116,
-  "scrim_height": 50
+  "accent": "#B8862B",
+  "line_color": "#3F2A78",
+  "title_size": 66,
+  "logo_plate": true,
+  "logo_width": 210
 }
