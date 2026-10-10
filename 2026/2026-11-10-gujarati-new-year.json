@@ -1,0 +1,18 @@
+{
+ "layout": "A",
+ "hero": "/tmp/claude-0/work/bestu/hero.jpg",
+ "hero_position": "center 30%",
+ "logo_variant": "purple",
+ "logo_position": "right",
+ "kicker": "Saal Mubarak",
+ "title": "Gujarati New Year",
+ "title_size": 92,
+ "lines": [
+  "Bestu Varas",
+  "May the new year shine bright"
+ ],
+ "accent": "#B2155F",
+ "title_color": "#7A1450",
+ "scrim": "cream",
+ "scrim_height": 48
+}
