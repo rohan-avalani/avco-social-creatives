@@ -1,18 +1,24 @@
 {
- "layout": "A",
- "hero": "/tmp/claude-0/work/bestu/hero.jpg",
- "hero_position": "center 30%",
- "logo_variant": "purple",
- "logo_position": "right",
- "kicker": "Saal Mubarak",
- "title": "Gujarati New Year",
- "title_size": 92,
- "lines": [
-  "Bestu Varas",
-  "May the new year shine bright"
- ],
- "accent": "#B2155F",
- "title_color": "#7A1450",
- "scrim": "cream",
- "scrim_height": 48
+  "layout": "F",
+  "hero": "2026-11-10-gujarati-new-year-hero.jpg",
+  "hero_position": "center 100%",
+  "zone": "top",
+  "zone_offset": 170,
+  "tone": "light",
+  "glow": 0.45,
+  "logo_variant": "purple",
+  "logo_position": "left",
+  "script": "નૂતન વર્ષાભિનંદન",
+  "script_lang": "gu",
+  "script_size": 80,
+  "script_color": "#A3201B",
+  "title": "Saal Mubarak",
+  "title_color": "#3F2A78",
+  "lines": [
+    "May every new ledger open with abundance"
+  ],
+  "accent": "#B8862B",
+  "line_color": "#3F2A78",
+  "frame": "hairline",
+  "title_size": 70
 }
