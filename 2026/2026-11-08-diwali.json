@@ -1,17 +1,24 @@
 {
- "layout": "A",
- "hero": "/tmp/claude-0/work/diwali/hero.jpg",
- "hero_position": "center 15%",
- "logo_variant": "white",
- "logo_position": "right",
- "kicker": "Happy",
- "title": "Diwali",
- "lines": [
-  "May Lakshmi's light",
-  "brighten every home"
- ],
- "accent": "#FCC51F",
- "title_color": "#FCC51F",
- "scrim": "dusk",
- "scrim_height": 44
+  "layout": "F",
+  "hero": "2026-11-08-diwali-hero.jpg",
+  "hero_position": "center 100%",
+  "zone": "top",
+  "zone_offset": 158,
+  "tone": "dark",
+  "glow": 0.45,
+  "logo_variant": "white",
+  "logo_position": "left",
+  "script": "शुभ दीपावली",
+  "script_lang": "hi",
+  "script_size": 96,
+  "script_color": "#F6C453",
+  "title": "Happy Diwali",
+  "title_color": "#F7EBD3",
+  "title_italic": true,
+  "lines": [
+    "May your home glow with light"
+  ],
+  "accent": "#F6C453",
+  "line_color": "#EDE6F7",
+  "title_size": 70
 }
