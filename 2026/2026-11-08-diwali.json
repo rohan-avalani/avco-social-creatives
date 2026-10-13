@@ -3,22 +3,23 @@
   "hero": "2026-11-08-diwali-hero.jpg",
   "hero_position": "center 100%",
   "zone": "top",
-  "zone_offset": 158,
-  "tone": "dark",
-  "glow": 0.45,
-  "logo_variant": "white",
+  "zone_offset": 150,
+  "tone": "light",
+  "glow": 0.55,
+  "logo_variant": "purple",
   "logo_position": "left",
   "script": "शुभ दीपावली",
   "script_lang": "hi",
-  "script_size": 96,
-  "script_color": "#F6C453",
+  "script_size": 74,
+  "script_color": "#A3201B",
   "title": "Happy Diwali",
-  "title_color": "#F7EBD3",
+  "title_color": "#3F2A78",
   "title_italic": true,
   "lines": [
     "May your home glow with light"
   ],
-  "accent": "#F6C453",
-  "line_color": "#EDE6F7",
-  "title_size": 70
+  "accent": "#B8862B",
+  "line_color": "#3F2A78",
+  "title_size": 54,
+  "ornament": "none"
 }
