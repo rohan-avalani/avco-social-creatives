@@ -1,0 +1,22 @@
+{
+  "layout": "F",
+  "hero": "2026-11-11-bhai-phonta-hero.jpg",
+  "hero_position": "center 100%",
+  "zone": "top",
+  "zone_offset": 170,
+  "tone": "light",
+  "glow": 0.45,
+  "logo_variant": "purple",
+  "logo_position": "left",
+  "script": "শুভ ভাইফোঁটা",
+  "script_lang": "bn",
+  "script_size": 88,
+  "script_color": "#A3201B",
+  "title": "Bhai Phonta",
+  "title_size": 70,
+  "title_color": "#3F2A78",
+  "lines": ["A sister's blessing, a brother's promise"],
+  "accent": "#B8862B",
+  "line_color": "#3F2A78",
+  "frame": "hairline"
+}
